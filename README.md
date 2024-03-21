@@ -28,7 +28,7 @@ Create the database by running 'source schema.sql' in MySQL in the db folder.  E
 
 After installation, run 'server.js' from this app's root directory.
 
-![Walkthrough](https://www.loom.com/share/ed6579d79f92458f8266559900370e68?sid=82f14dc6-3f56-434e-a811-b1e7f0b858c9)
+[Walkthrough]https://www.loom.com/share/ed6579d79f92458f8266559900370e68?sid=82f14dc6-3f56-434e-a811-b1e7f0b858c9
 ## License
 
 This software is covered under the following license:
